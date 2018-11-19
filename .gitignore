@@ -1,0 +1,20 @@
+node_modules
+
+#vs code
+.vscode
+
+#intelliJ
+.idea
+
+dist
+logs
+
+apn-keys
+keys
+
+*.db
+
+coverage/
+
+#sonar
+.scannerwork
