@@ -22,7 +22,7 @@
   "homepage": "https://github.com/ywchang/try-talisman#readme",
   "husky": {
     "hooks": {
-      "pre-push": "./hooks/talisman $HUSKY_GIT_PARAMS"
+      "pre-push": "./hooks/talisman -E HUSKY_GIT_PARAMS"
     }
   }
 }
